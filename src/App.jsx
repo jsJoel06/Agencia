@@ -92,7 +92,7 @@ const menuItems = [
     title: "¿Quieres más información?",
     subtitle: "Descubre destinos, paquetes y más",
     image: Ws,
-    link: "#informacion",
+    link: "/informacion",
   },
 
   {
@@ -110,7 +110,7 @@ const menuItems = [
     title: "Guía de Tips de Viajes GRATIS",
     subtitle: "Consejos y recomendaciones según mi experiencia 💗",
     image: Wd,
-    link: "#guia",
+    link: "/guia-de-viajes",
   },
 ];
 
